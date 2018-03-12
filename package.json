@@ -1,0 +1,18 @@
+{
+  "name": "pidusage-promise",
+  "version": "1.0.0",
+  "description": "pidusage as a promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pidusage",
+    "stat"
+  ],
+  "author": "soyuka",
+  "license": "MIT",
+  "dependencies": {
+    "pidusage": "1.2.0"
+  }
+}
