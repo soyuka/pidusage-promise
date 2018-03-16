@@ -13,6 +13,6 @@
   "author": "soyuka",
   "license": "MIT",
   "dependencies": {
-    "pidusage": "1.2.0"
+    "pidusage": "^2.0.0"
   }
 }
